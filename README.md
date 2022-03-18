@@ -22,7 +22,9 @@ Users can clone the repository from GitHub and download Node.
 ## Usage
 
 Use inquirer from your command line to answer questions about your project.
-![Screen Recording Gif](./media/README-GENERATOR.gif)
+
+## Walk Through Video Link Via Youtube
+https://www.youtube.com/watch?v=KEIGaKzAo5o
 
 ## License
 
